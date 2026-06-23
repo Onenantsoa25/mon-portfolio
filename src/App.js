@@ -339,7 +339,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <p>© 2025 Manoa Randrianarivelo — Developpeur fullstack junior</p>
+        <p>© 2026 Manoa Randrianarivelo — Developpeur fullstack junior</p>
       </footer>
 
       {/* MODAL */}
